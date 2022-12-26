@@ -49,6 +49,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    width: 100%;
     /* background-attachment: fixed; */
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.5);
@@ -65,3 +66,31 @@ body{
     margin-left: 100px;
     font-weight: 700;
 }
+
+
+
+/* @media screen and (max-width: 668px){
+    .nav-item a{
+        margin-left: 100px;
+        
+    }
+    .bannerh1{
+        font-size: 3rem;
+        font-weight: 500;
+        color: blue;
+    }
+    .bannerh2{
+        font-size: 2rem;
+        font-weight: 500;
+        color: blue;
+    }
+    .bannerp{
+    
+        font-weight: 400;
+    }
+    .tnwimg{
+        width:200px;
+        height: 100px;
+    }
+}
+     */
